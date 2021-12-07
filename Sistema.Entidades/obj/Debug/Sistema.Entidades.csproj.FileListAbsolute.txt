@@ -1,0 +1,22 @@
+D:\Proyectos de Programación\Proyecto de Comida Canina\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Entidades\bin\Debug\Sistema.Entidades.dll
+D:\Proyectos de Programación\Proyecto de Comida Canina\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Entidades\bin\Debug\Sistema.Entidades.pdb
+D:\Proyectos de Programación\Proyecto de Comida Canina\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Entidades\obj\Debug\Sistema.Entidades.csproj.CoreCompileInputs.cache
+D:\Proyectos de Programación\Proyecto de Comida Canina\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Entidades\obj\Debug\Sistema.Entidades.dll
+D:\Proyectos de Programación\Proyecto de Comida Canina\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Entidades\obj\Debug\Sistema.Entidades.pdb
+C:\Users\Rene\Documents\GitHub\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Entidades\bin\Debug\Sistema.Entidades.dll
+C:\Users\Rene\Documents\GitHub\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Entidades\bin\Debug\Sistema.Entidades.pdb
+C:\Users\Rene\Documents\GitHub\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Entidades\obj\Debug\Sistema.Entidades.csproj.AssemblyReference.cache
+C:\Users\Rene\Documents\GitHub\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Entidades\obj\Debug\Sistema.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Rene\Documents\GitHub\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Entidades\obj\Debug\Sistema.Entidades.dll
+C:\Users\Rene\Documents\GitHub\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Entidades\obj\Debug\Sistema.Entidades.pdb
+D:\Proyectos de Programación\Proyecto petFoodColombia\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Entidades\bin\Debug\Sistema.Entidades.dll
+D:\Proyectos de Programación\Proyecto petFoodColombia\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Entidades\bin\Debug\Sistema.Entidades.pdb
+D:\Proyectos de Programación\Proyecto petFoodColombia\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Entidades\obj\Debug\Sistema.Entidades.csproj.AssemblyReference.cache
+D:\Proyectos de Programación\Proyecto petFoodColombia\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Entidades\obj\Debug\Sistema.Entidades.csproj.CoreCompileInputs.cache
+D:\Proyectos de Programación\Proyecto petFoodColombia\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Entidades\obj\Debug\Sistema.Entidades.dll
+D:\Proyectos de Programación\Proyecto petFoodColombia\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Entidades\obj\Debug\Sistema.Entidades.pdb
+D:\Proyectos de Programación\Proyecto Foro BAC\Forum\Sistema.Entidades\bin\Debug\Sistema.Entidades.dll
+D:\Proyectos de Programación\Proyecto Foro BAC\Forum\Sistema.Entidades\bin\Debug\Sistema.Entidades.pdb
+D:\Proyectos de Programación\Proyecto Foro BAC\Forum\Sistema.Entidades\obj\Debug\Sistema.Entidades.csproj.CoreCompileInputs.cache
+D:\Proyectos de Programación\Proyecto Foro BAC\Forum\Sistema.Entidades\obj\Debug\Sistema.Entidades.dll
+D:\Proyectos de Programación\Proyecto Foro BAC\Forum\Sistema.Entidades\obj\Debug\Sistema.Entidades.pdb

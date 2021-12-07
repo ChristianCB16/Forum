@@ -1,0 +1,85 @@
+D:\Proyectos de Programación\Proyecto de Comida Canina\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.AssemblyReference.cache
+D:\Proyectos de Programación\Proyecto de Comida Canina\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Properties.Resources.resources
+D:\Proyectos de Programación\Proyecto de Comida Canina\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.GenerateResource.cache
+D:\Proyectos de Programación\Proyecto de Comida Canina\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.CoreCompileInputs.cache
+D:\Proyectos de Programación\Proyecto de Comida Canina\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe.config
+D:\Proyectos de Programación\Proyecto de Comida Canina\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe
+D:\Proyectos de Programación\Proyecto de Comida Canina\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.pdb
+D:\Proyectos de Programación\Proyecto de Comida Canina\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Presentacion\bin\Debug\Sistema.Negocio.dll
+D:\Proyectos de Programación\Proyecto de Comida Canina\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Presentacion\bin\Debug\Syncfusion.Licensing.dll
+D:\Proyectos de Programación\Proyecto de Comida Canina\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Presentacion\bin\Debug\Sistema.Negocio.pdb
+D:\Proyectos de Programación\Proyecto de Comida Canina\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.PrincipalForm.resources
+D:\Proyectos de Programación\Proyecto de Comida Canina\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.exe
+D:\Proyectos de Programación\Proyecto de Comida Canina\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.pdb
+D:\Proyectos de Programación\Proyecto de Comida Canina\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Presentacion\bin\Debug\MaterialSkin.dll
+C:\Users\Rene\Documents\GitHub\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.AssemblyReference.cache
+C:\Users\Rene\Documents\GitHub\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Properties.Resources.resources
+C:\Users\Rene\Documents\GitHub\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.GenerateResource.cache
+C:\Users\Rene\Documents\GitHub\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Rene\Documents\GitHub\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe.config
+C:\Users\Rene\Documents\GitHub\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe
+C:\Users\Rene\Documents\GitHub\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.pdb
+C:\Users\Rene\Documents\GitHub\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Presentacion\bin\Debug\Sistema.Negocio.dll
+C:\Users\Rene\Documents\GitHub\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Presentacion\bin\Debug\Sistema.Datos.dll
+C:\Users\Rene\Documents\GitHub\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Presentacion\bin\Debug\Sistema.Entidades.dll
+C:\Users\Rene\Documents\GitHub\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Presentacion\bin\Debug\Sistema.Negocio.pdb
+C:\Users\Rene\Documents\GitHub\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Presentacion\bin\Debug\Sistema.Datos.pdb
+C:\Users\Rene\Documents\GitHub\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Presentacion\bin\Debug\Sistema.Entidades.pdb
+C:\Users\Rene\Documents\GitHub\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.exe
+C:\Users\Rene\Documents\GitHub\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.pdb
+C:\Users\Rene\Documents\GitHub\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Presentacion\bin\Debug\MaterialSkin.dll
+C:\Users\Rene\Documents\GitHub\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Presentacion\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\Rene\Documents\GitHub\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.PrincipalForm.resources
+D:\Proyectos de Programación\Proyecto petFoodColombia\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe.config
+D:\Proyectos de Programación\Proyecto petFoodColombia\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe
+D:\Proyectos de Programación\Proyecto petFoodColombia\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.pdb
+D:\Proyectos de Programación\Proyecto petFoodColombia\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Presentacion\bin\Debug\MaterialSkin.dll
+D:\Proyectos de Programación\Proyecto petFoodColombia\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Presentacion\bin\Debug\Sistema.Negocio.dll
+D:\Proyectos de Programación\Proyecto petFoodColombia\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Presentacion\bin\Debug\Syncfusion.Licensing.dll
+D:\Proyectos de Programación\Proyecto petFoodColombia\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Presentacion\bin\Debug\Sistema.Datos.dll
+D:\Proyectos de Programación\Proyecto petFoodColombia\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Presentacion\bin\Debug\Sistema.Entidades.dll
+D:\Proyectos de Programación\Proyecto petFoodColombia\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Presentacion\bin\Debug\Sistema.Negocio.pdb
+D:\Proyectos de Programación\Proyecto petFoodColombia\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Presentacion\bin\Debug\Sistema.Datos.pdb
+D:\Proyectos de Programación\Proyecto petFoodColombia\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Presentacion\bin\Debug\Sistema.Entidades.pdb
+D:\Proyectos de Programación\Proyecto petFoodColombia\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.AssemblyReference.cache
+D:\Proyectos de Programación\Proyecto petFoodColombia\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.PrincipalForm.resources
+D:\Proyectos de Programación\Proyecto petFoodColombia\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Properties.Resources.resources
+D:\Proyectos de Programación\Proyecto petFoodColombia\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.GenerateResource.cache
+D:\Proyectos de Programación\Proyecto petFoodColombia\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.CoreCompileInputs.cache
+D:\Proyectos de Programación\Proyecto petFoodColombia\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.exe
+D:\Proyectos de Programación\Proyecto petFoodColombia\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.pdb
+D:\Proyectos de Programación\Proyecto petFoodColombia\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.LoginForm.resources
+C:\Users\Rene\Documents\GitHub\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.LoginForm.resources
+C:\Users\Rene\Documents\GitHub\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.CrearUserForm.resources
+C:\Users\Rene\Documents\GitHub\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.User.UpdateUserForm.resources
+D:\Proyectos de Programación\Proyecto petFoodColombia\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.CrearUserForm.resources
+D:\Proyectos de Programación\Proyecto petFoodColombia\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.User.UpdateUserForm.resources
+D:\Proyectos de Programación\Proyecto petFoodColombia\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Ingrendiente.CrearIngredForm.resources
+D:\Proyectos de Programación\Proyecto petFoodColombia\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Ingrendiente.ActualizarIngred.resources
+D:\Proyectos de Programación\Proyecto petFoodColombia\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Ingrendiente.EliminarIngrePopUp.resources
+C:\Users\Rene\Documents\GitHub\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Ingrendiente.ActualizarIngred.resources
+C:\Users\Rene\Documents\GitHub\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Ingrendiente.CrearIngredForm.resources
+C:\Users\Rene\Documents\GitHub\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Ingrendiente.EliminarIngrePopUp.resources
+D:\Proyectos de Programación\Proyecto petFoodColombia\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Recetas.agregarPopUp.resources
+C:\Users\Rene\Documents\GitHub\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Recetas.agregarPopUp.resources
+D:\Proyectos de Programación\Proyecto petFoodColombia\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.CopyComplete
+D:\Proyectos de Programación\Proyecto Foro BAC\Forum\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe.config
+D:\Proyectos de Programación\Proyecto Foro BAC\Forum\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe
+D:\Proyectos de Programación\Proyecto Foro BAC\Forum\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.pdb
+D:\Proyectos de Programación\Proyecto Foro BAC\Forum\Sistema.Presentacion\bin\Debug\MaterialSkin.dll
+D:\Proyectos de Programación\Proyecto Foro BAC\Forum\Sistema.Presentacion\bin\Debug\Sistema.Datos.dll
+D:\Proyectos de Programación\Proyecto Foro BAC\Forum\Sistema.Presentacion\bin\Debug\Sistema.Entidades.dll
+D:\Proyectos de Programación\Proyecto Foro BAC\Forum\Sistema.Presentacion\bin\Debug\Sistema.Negocio.dll
+D:\Proyectos de Programación\Proyecto Foro BAC\Forum\Sistema.Presentacion\bin\Debug\Syncfusion.Licensing.dll
+D:\Proyectos de Programación\Proyecto Foro BAC\Forum\Sistema.Presentacion\bin\Debug\Sistema.Datos.pdb
+D:\Proyectos de Programación\Proyecto Foro BAC\Forum\Sistema.Presentacion\bin\Debug\Sistema.Entidades.pdb
+D:\Proyectos de Programación\Proyecto Foro BAC\Forum\Sistema.Presentacion\bin\Debug\Sistema.Negocio.pdb
+D:\Proyectos de Programación\Proyecto Foro BAC\Forum\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.AssemblyReference.cache
+D:\Proyectos de Programación\Proyecto Foro BAC\Forum\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.CrearUserForm.resources
+D:\Proyectos de Programación\Proyecto Foro BAC\Forum\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.LoginForm.resources
+D:\Proyectos de Programación\Proyecto Foro BAC\Forum\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.PrincipalForm.resources
+D:\Proyectos de Programación\Proyecto Foro BAC\Forum\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Properties.Resources.resources
+D:\Proyectos de Programación\Proyecto Foro BAC\Forum\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.GenerateResource.cache
+D:\Proyectos de Programación\Proyecto Foro BAC\Forum\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.CoreCompileInputs.cache
+D:\Proyectos de Programación\Proyecto Foro BAC\Forum\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.exe
+D:\Proyectos de Programación\Proyecto Foro BAC\Forum\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.pdb

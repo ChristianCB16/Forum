@@ -1,0 +1,43 @@
+D:\Proyectos de Programación\Proyecto de Comida Canina\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Negocio\bin\Debug\Sistema.Negocio.dll
+D:\Proyectos de Programación\Proyecto de Comida Canina\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Negocio\bin\Debug\Sistema.Negocio.pdb
+D:\Proyectos de Programación\Proyecto de Comida Canina\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Negocio\bin\Debug\Sistema.Datos.dll
+D:\Proyectos de Programación\Proyecto de Comida Canina\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Negocio\bin\Debug\Sistema.Entidades.dll
+D:\Proyectos de Programación\Proyecto de Comida Canina\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Negocio\bin\Debug\Sistema.Datos.pdb
+D:\Proyectos de Programación\Proyecto de Comida Canina\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Negocio\bin\Debug\Sistema.Entidades.pdb
+D:\Proyectos de Programación\Proyecto de Comida Canina\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Negocio\obj\Debug\Sistema.Negocio.csproj.AssemblyReference.cache
+D:\Proyectos de Programación\Proyecto de Comida Canina\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Negocio\obj\Debug\Sistema.Negocio.csproj.CoreCompileInputs.cache
+D:\Proyectos de Programación\Proyecto de Comida Canina\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Negocio\obj\Debug\Sistema.Negocio.csproj.CopyComplete
+D:\Proyectos de Programación\Proyecto de Comida Canina\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Negocio\obj\Debug\Sistema.Negocio.dll
+D:\Proyectos de Programación\Proyecto de Comida Canina\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Negocio\obj\Debug\Sistema.Negocio.pdb
+C:\Users\Rene\Documents\GitHub\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Negocio\bin\Debug\Sistema.Negocio.dll
+C:\Users\Rene\Documents\GitHub\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Negocio\bin\Debug\Sistema.Negocio.pdb
+C:\Users\Rene\Documents\GitHub\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Negocio\bin\Debug\Sistema.Datos.dll
+C:\Users\Rene\Documents\GitHub\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Negocio\bin\Debug\Sistema.Entidades.dll
+C:\Users\Rene\Documents\GitHub\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Negocio\bin\Debug\Sistema.Datos.pdb
+C:\Users\Rene\Documents\GitHub\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Negocio\bin\Debug\Sistema.Entidades.pdb
+C:\Users\Rene\Documents\GitHub\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Negocio\obj\Debug\Sistema.Negocio.csproj.AssemblyReference.cache
+C:\Users\Rene\Documents\GitHub\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Negocio\obj\Debug\Sistema.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Rene\Documents\GitHub\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Negocio\obj\Debug\Sistema.Negocio.dll
+C:\Users\Rene\Documents\GitHub\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Negocio\obj\Debug\Sistema.Negocio.pdb
+D:\Proyectos de Programación\Proyecto petFoodColombia\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Negocio\bin\Debug\Sistema.Negocio.dll
+D:\Proyectos de Programación\Proyecto petFoodColombia\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Negocio\bin\Debug\Sistema.Negocio.pdb
+D:\Proyectos de Programación\Proyecto petFoodColombia\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Negocio\bin\Debug\Sistema.Datos.dll
+D:\Proyectos de Programación\Proyecto petFoodColombia\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Negocio\bin\Debug\Sistema.Entidades.dll
+D:\Proyectos de Programación\Proyecto petFoodColombia\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Negocio\bin\Debug\Sistema.Datos.pdb
+D:\Proyectos de Programación\Proyecto petFoodColombia\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Negocio\bin\Debug\Sistema.Entidades.pdb
+D:\Proyectos de Programación\Proyecto petFoodColombia\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Negocio\obj\Debug\Sistema.Negocio.csproj.AssemblyReference.cache
+D:\Proyectos de Programación\Proyecto petFoodColombia\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Negocio\obj\Debug\Sistema.Negocio.csproj.CoreCompileInputs.cache
+D:\Proyectos de Programación\Proyecto petFoodColombia\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Negocio\obj\Debug\Sistema.Negocio.csproj.CopyComplete
+D:\Proyectos de Programación\Proyecto petFoodColombia\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Negocio\obj\Debug\Sistema.Negocio.dll
+D:\Proyectos de Programación\Proyecto petFoodColombia\ComidaCanina-Col-\app\SistemaGestionIngredientesyRecetas\Sistema.Negocio\obj\Debug\Sistema.Negocio.pdb
+D:\Proyectos de Programación\Proyecto Foro BAC\Forum\Sistema.Negocio\bin\Debug\Sistema.Negocio.dll
+D:\Proyectos de Programación\Proyecto Foro BAC\Forum\Sistema.Negocio\bin\Debug\Sistema.Negocio.pdb
+D:\Proyectos de Programación\Proyecto Foro BAC\Forum\Sistema.Negocio\bin\Debug\Sistema.Datos.dll
+D:\Proyectos de Programación\Proyecto Foro BAC\Forum\Sistema.Negocio\bin\Debug\Sistema.Entidades.dll
+D:\Proyectos de Programación\Proyecto Foro BAC\Forum\Sistema.Negocio\bin\Debug\Sistema.Datos.pdb
+D:\Proyectos de Programación\Proyecto Foro BAC\Forum\Sistema.Negocio\bin\Debug\Sistema.Entidades.pdb
+D:\Proyectos de Programación\Proyecto Foro BAC\Forum\Sistema.Negocio\obj\Debug\Sistema.Negocio.csproj.AssemblyReference.cache
+D:\Proyectos de Programación\Proyecto Foro BAC\Forum\Sistema.Negocio\obj\Debug\Sistema.Negocio.csproj.CoreCompileInputs.cache
+D:\Proyectos de Programación\Proyecto Foro BAC\Forum\Sistema.Negocio\obj\Debug\Sistema.Negocio.csproj.CopyComplete
+D:\Proyectos de Programación\Proyecto Foro BAC\Forum\Sistema.Negocio\obj\Debug\Sistema.Negocio.dll
+D:\Proyectos de Programación\Proyecto Foro BAC\Forum\Sistema.Negocio\obj\Debug\Sistema.Negocio.pdb
