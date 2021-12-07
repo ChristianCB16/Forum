@@ -29,6 +29,5 @@ D:\Proyectos de Programación\Proyecto Foro BAC\Forum\Sistema.Datos\bin\Debug\Si
 D:\Proyectos de Programación\Proyecto Foro BAC\Forum\Sistema.Datos\bin\Debug\Sistema.Entidades.pdb
 D:\Proyectos de Programación\Proyecto Foro BAC\Forum\Sistema.Datos\obj\Debug\Sistema.Datos.csproj.AssemblyReference.cache
 D:\Proyectos de Programación\Proyecto Foro BAC\Forum\Sistema.Datos\obj\Debug\Sistema.Datos.csproj.CoreCompileInputs.cache
-D:\Proyectos de Programación\Proyecto Foro BAC\Forum\Sistema.Datos\obj\Debug\Sistema.Datos.csproj.CopyComplete
 D:\Proyectos de Programación\Proyecto Foro BAC\Forum\Sistema.Datos\obj\Debug\Sistema.Datos.dll
 D:\Proyectos de Programación\Proyecto Foro BAC\Forum\Sistema.Datos\obj\Debug\Sistema.Datos.pdb

@@ -24,7 +24,7 @@ namespace Sistema.Negocio
                 return true;
             }
         }
-
+        
         public static DataTable List()
         {
             DUsuarios du = new DUsuarios();

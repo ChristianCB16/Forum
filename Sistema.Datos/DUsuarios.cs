@@ -69,7 +69,7 @@ namespace Sistema.Datos
                 return Usuarios.EmptyUser();
             }
         }
-
+     
         public DataTable List()
         {
 

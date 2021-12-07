@@ -9,6 +9,7 @@ using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Web.Security;
 using System.Windows.Forms;
 
 namespace Sistema.Presentacion
@@ -21,26 +22,26 @@ namespace Sistema.Presentacion
 
             
         }
-
+        
         private void refreshdata()
         {
-            //evitar que sea editable el GridView
-            UserDgv.ReadOnly = true;
-            UserDgv.DataSource = Negocio.NUsuarios.List();
+        
+            Preguntasdgv.ReadOnly = true;
+            Preguntasdgv.DataSource = Negocio.Npregunta.Listar();
 
-            Ingredgv.ReadOnly = true;
-            
-           
+            int i = 1;
+            MisquestDgv.ReadOnly = true;
+            MisquestDgv.DataSource = Negocio.Npregunta.Listar_Mispregnutas(i);
         }
        
         private void PrincipalForm_Load(object sender, EventArgs e)
         {
             refreshdata();
-            this.UserDgv.Columns[0].Visible = false;
+            /*this.UserDgv.Columns[0].Visible = false;
             this.UserDgv.Columns[1].AutoSizeMode = DataGridViewAutoSizeColumnMode.Fill;
             this.UserDgv.Columns[2].AutoSizeMode = DataGridViewAutoSizeColumnMode.Fill;
             this.UserDgv.Columns[3].AutoSizeMode = DataGridViewAutoSizeColumnMode.Fill;
-            this.UserDgv.Columns[3].AutoSizeMode = DataGridViewAutoSizeColumnMode.DisplayedCells;
+            this.UserDgv.Columns[3].AutoSizeMode = DataGridViewAutoSizeColumnMode.DisplayedCells;*/
 
         }
 
@@ -128,9 +129,9 @@ namespace Sistema.Presentacion
        
         }
 
-        private void UserDgv_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        private void MisquestDgv_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
-
+            refreshdata();
         }
 
         private void usersAdminTab_Click(object sender, EventArgs e)
@@ -140,12 +141,15 @@ namespace Sistema.Presentacion
 
         private void InsertquestBtn_Click(object sender, EventArgs e)
         {
-
+            var formPopup = new CrearPreguntasForm();
+            formPopup.ShowDialog();
+            refreshdata();
         }
 
         private void CloseQuestBtn_Click(object sender, EventArgs e)
         {
 
         }
+        
     }
 }

@@ -42,6 +42,8 @@
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.ApplicationServices" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -58,11 +60,11 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
-    <Compile Include="User\CrearUserForm.cs">
+    <Compile Include="Preguntas\CrearPreguntas.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="User\CrearUserForm.Designer.cs">
-      <DependentUpon>CrearUserForm.cs</DependentUpon>
+    <Compile Include="Preguntas\CrearPreguntas.Designer.cs">
+      <DependentUpon>CrearPreguntas.cs</DependentUpon>
     </Compile>
     <Compile Include="LoginForm.cs">
       <SubType>Form</SubType>
@@ -78,8 +80,8 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="User\CrearUserForm.resx">
-      <DependentUpon>CrearUserForm.cs</DependentUpon>
+    <EmbeddedResource Include="Preguntas\CrearPreguntas.resx">
+      <DependentUpon>CrearPreguntas.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="LoginForm.resx">
       <DependentUpon>LoginForm.cs</DependentUpon>
