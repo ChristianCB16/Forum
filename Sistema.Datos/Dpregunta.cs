@@ -35,14 +35,14 @@ namespace Sistema.Datos
             }
         }
 
-        public DataTable Listar_Mispreguntas(int user_id)
+        public DataTable Listar_Mispreguntas(string username)
         {
             SqlDataReader Resultado;
             DataTable Tabla = new DataTable();
             SqlConnection SqlCon = new SqlConnection();
             SqlParameter[] param = {
-                 new SqlParameter("@user_id", SqlDbType.VarChar) {
-                    Value = user_id
+                 new SqlParameter("@username", SqlDbType.VarChar) {
+                    Value = username
                 } };
             try
             {
@@ -64,8 +64,38 @@ namespace Sistema.Datos
                 if (SqlCon.State == ConnectionState.Open) SqlCon.Close();
             }
         }
-        
-        public bool Insert_pregunta(string titulo, string descripcion, int estado, int user_id)
+
+        public DataTable cerrar_pregunta(int id)
+        {
+            SqlDataReader Resultado;
+            DataTable Tabla = new DataTable();
+            SqlConnection SqlCon = new SqlConnection();
+            SqlParameter[] param = {
+                 new SqlParameter("@id", SqlDbType.Int) {
+                    Value = id
+                } };
+            try
+            {
+                SqlCon = Conexion.GetInstance().CreateConnection();
+                SqlCommand Comando = new SqlCommand("cerrar_pregunta", SqlCon);
+                Comando.CommandType = CommandType.StoredProcedure;
+                Comando.Parameters.AddRange(param);
+                SqlCon.Open();
+                Resultado = Comando.ExecuteReader();
+                Tabla.Load(Resultado);
+                return Tabla;
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+            finally
+            {
+                if (SqlCon.State == ConnectionState.Open) SqlCon.Close();
+            }
+        }
+
+        public bool Insert_pregunta(string titulo, string descripcion, int estado, string username)
         {
             
             bool inserted = false;
@@ -83,8 +113,8 @@ namespace Sistema.Datos
                  new SqlParameter("@fecha", SqlDbType.VarChar) {
                     Value = fecha
                 },
-                 new SqlParameter("@user_id", SqlDbType.VarChar) {
-                    Value = user_id
+                 new SqlParameter("@username", SqlDbType.VarChar) {
+                    Value = username
                 },
                   
                   new SqlParameter("@estado", SqlDbType.Int){

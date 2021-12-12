@@ -38,6 +38,6 @@ D:\Proyectos de Programación\Proyecto Foro BAC\Forum\Sistema.Negocio\bin\Debug\
 D:\Proyectos de Programación\Proyecto Foro BAC\Forum\Sistema.Negocio\bin\Debug\Sistema.Entidades.pdb
 D:\Proyectos de Programación\Proyecto Foro BAC\Forum\Sistema.Negocio\obj\Debug\Sistema.Negocio.csproj.AssemblyReference.cache
 D:\Proyectos de Programación\Proyecto Foro BAC\Forum\Sistema.Negocio\obj\Debug\Sistema.Negocio.csproj.CoreCompileInputs.cache
-D:\Proyectos de Programación\Proyecto Foro BAC\Forum\Sistema.Negocio\obj\Debug\Sistema.Negocio.csproj.CopyComplete
 D:\Proyectos de Programación\Proyecto Foro BAC\Forum\Sistema.Negocio\obj\Debug\Sistema.Negocio.dll
 D:\Proyectos de Programación\Proyecto Foro BAC\Forum\Sistema.Negocio\obj\Debug\Sistema.Negocio.pdb
+D:\Proyectos de Programación\Proyecto Foro BAC\Forum\Sistema.Negocio\obj\Debug\Sistema.Negocio.csproj.CopyComplete

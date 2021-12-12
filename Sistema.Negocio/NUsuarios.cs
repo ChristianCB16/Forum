@@ -7,6 +7,7 @@ using Sistema.Entidades;
 using Sistema.Datos;
 using System.Data;
 
+
 namespace Sistema.Negocio
 {
     public class NUsuarios
@@ -37,6 +38,22 @@ namespace Sistema.Negocio
             return du.getOne(id);
         }
 
+        public static string insert(string name,string lastname, string username, string email, string contra)
+        {
+            DUsuarios du = new DUsuarios();
+            string Existe = du.Existe(username);
+
+            if (Existe.Equals("1"))
+            {
+                return "El username ingresado ya existe, por favor elija otro.";
+            }
+            else
+            {
+                du.Insert(name, lastname, username, email, contra);
+                return "Se ha agregado con exito el usuario. ";
+            }
+                
+        }
 
     }
 }

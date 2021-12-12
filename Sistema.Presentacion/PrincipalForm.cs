@@ -16,11 +16,13 @@ namespace Sistema.Presentacion
 {
     public partial class PrincipalForm : MaterialSkin.Controls.MaterialForm
     {
-        public PrincipalForm()
+        string current_user;
+        
+        public PrincipalForm(string username)
         {
             InitializeComponent();
 
-            
+            current_user = username; 
         }
         
         private void refreshdata()
@@ -29,9 +31,10 @@ namespace Sistema.Presentacion
             Preguntasdgv.ReadOnly = true;
             Preguntasdgv.DataSource = Negocio.Npregunta.Listar();
 
-            int i = 1;
+           
             MisquestDgv.ReadOnly = true;
-            MisquestDgv.DataSource = Negocio.Npregunta.Listar_Mispregnutas(i);
+            MisquestDgv.DataSource = Negocio.Npregunta.Listar_Mispregnutas(current_user);
+
         }
        
         private void PrincipalForm_Load(object sender, EventArgs e)
@@ -141,15 +144,45 @@ namespace Sistema.Presentacion
 
         private void InsertquestBtn_Click(object sender, EventArgs e)
         {
-            var formPopup = new CrearPreguntasForm();
+            var formPopup = new CrearPreguntasForm(current_user);
             formPopup.ShowDialog();
             refreshdata();
         }
 
         private void CloseQuestBtn_Click(object sender, EventArgs e)
         {
+            var formPopup = new Preguntas.CerrarPreguntaForm();
+            formPopup.ShowDialog();
+            refreshdata();
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
 
         }
-        
+
+        private void SeeQuestbtn_Click(object sender, EventArgs e)
+        {
+            int numVal = Int32.Parse(questidtxt.Text);
+            Answerdgv.DataSource = Negocio.Nrespuesta.Buscar_respuestas(numVal);
+        }
+
+        private void questidtxt_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void answerquestbutton_Click(object sender, EventArgs e)
+        {
+            int quest_id = Int32.Parse(respondertxt.Text);
+            var formPopup = new Respuestas.RespuestasForm(current_user, quest_id);
+            formPopup.ShowDialog();
+            refreshdata();
+        }
+
+        private void respondertxt_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -37,6 +37,7 @@ namespace Sistema.Presentacion
             this.cancelarButton = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.Regbtn = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -114,7 +115,7 @@ namespace Sistema.Presentacion
             this.cancelarButton.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Brown;
             this.cancelarButton.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.cancelarButton.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.cancelarButton.Location = new System.Drawing.Point(248, 230);
+            this.cancelarButton.Location = new System.Drawing.Point(132, 283);
             this.cancelarButton.Name = "cancelarButton";
             this.cancelarButton.Size = new System.Drawing.Size(212, 29);
             this.cancelarButton.TabIndex = 11;
@@ -133,6 +134,7 @@ namespace Sistema.Presentacion
             this.label1.Size = new System.Drawing.Size(246, 29);
             this.label1.TabIndex = 12;
             this.label1.Text = "Acceso al Foro BAC";
+            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // pictureBox1
             // 
@@ -140,15 +142,31 @@ namespace Sistema.Presentacion
             this.pictureBox1.Image = global::Sistema.Presentacion.Properties.Resources.LoginLogo;
             this.pictureBox1.Location = new System.Drawing.Point(501, 89);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(213, 193);
+            this.pictureBox1.Size = new System.Drawing.Size(214, 193);
             this.pictureBox1.TabIndex = 13;
             this.pictureBox1.TabStop = false;
+            // 
+            // Regbtn
+            // 
+            this.Regbtn.AutoSize = true;
+            this.Regbtn.FlatAppearance.MouseDownBackColor = System.Drawing.Color.DodgerBlue;
+            this.Regbtn.FlatAppearance.MouseOverBackColor = System.Drawing.Color.SteelBlue;
+            this.Regbtn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Regbtn.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Regbtn.Location = new System.Drawing.Point(257, 230);
+            this.Regbtn.Name = "Regbtn";
+            this.Regbtn.Size = new System.Drawing.Size(203, 29);
+            this.Regbtn.TabIndex = 14;
+            this.Regbtn.Text = "Registrarse";
+            this.Regbtn.UseVisualStyleBackColor = true;
+            this.Regbtn.Click += new System.EventHandler(this.Regbtn_Click);
             // 
             // LoginForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(11F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(748, 314);
+            this.ClientSize = new System.Drawing.Size(748, 343);
+            this.Controls.Add(this.Regbtn);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.cancelarButton);
@@ -171,11 +189,12 @@ namespace Sistema.Presentacion
         #endregion
         private MaterialSkin.Controls.MaterialLabel materialLabel2;
         private MaterialSkin.Controls.MaterialLabel materialLabel3;
-        private System.Windows.Forms.TextBox txtBoxCorreo;
         private System.Windows.Forms.TextBox txtContrasena;
         private System.Windows.Forms.Button LoginButton;
         private System.Windows.Forms.Button cancelarButton;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.PictureBox pictureBox1;
+        private System.Windows.Forms.Button Regbtn;
+        public System.Windows.Forms.TextBox txtBoxCorreo;
     }
 }

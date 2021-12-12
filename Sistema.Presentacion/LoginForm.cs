@@ -12,6 +12,8 @@ namespace Sistema.Presentacion
 {
     public partial class LoginForm : MaterialSkin.Controls.MaterialForm
     {
+        
+        
         public LoginForm()
         {
             InitializeComponent();
@@ -23,13 +25,19 @@ namespace Sistema.Presentacion
             string username = txtBoxCorreo.Text.Trim();
             string password = txtContrasena.Text.Trim();
 
+            PrincipalForm frm = new PrincipalForm(username);
+            
+
+
             if (validarCampos(username, password))
             {
                 try
                 {
-
+                    
+                    //Negocio.Npregunta.Listar_Mispregnutas(username);
                     found = Negocio.NUsuarios.SignIn(username, password);
                     
+
                 }
                 catch (Exception)
                 {
@@ -79,7 +87,9 @@ namespace Sistema.Presentacion
         private void MostrarAdminoUserForm()
         {
             //agregar por roles
-            PrincipalForm pf = new PrincipalForm();
+            string username = txtBoxCorreo.Text.Trim();
+            PrincipalForm pf = new PrincipalForm(username);
+            
             pf.Show();
             this.Hide();
 
@@ -111,6 +121,17 @@ namespace Sistema.Presentacion
         }
 
         private void txtBoxCorreo_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Regbtn_Click(object sender, EventArgs e)
+        {
+            var formPopup = new User.CreateUserForm();
+            formPopup.ShowDialog();
+        }
+
+        private void label1_Click(object sender, EventArgs e)
         {
 
         }

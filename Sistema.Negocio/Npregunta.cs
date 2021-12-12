@@ -16,18 +16,24 @@ namespace Sistema.Negocio
             return Datos.Listar();
         }
 
-        public static DataTable Listar_Mispregnutas(int user_id)
+        public static DataTable Listar_Mispregnutas(string username)
         {
             Dpregunta Datos = new Dpregunta();
-            return Datos.Listar_Mispreguntas(user_id);
+            return Datos.Listar_Mispreguntas(username);
         }
-        public static string insert(string titulo, string descripcion, int estado, int user_id)
+
+        public static DataTable cerrar_pregunta(int id)
+        {
+            Dpregunta Datos = new Dpregunta();
+            return Datos.cerrar_pregunta(id);
+        }
+        public static string insert(string titulo, string descripcion, int estado, string username)
         {
             Dpregunta Datos = new Dpregunta();
 
 
 
-            if (Datos.Insert_pregunta(titulo,descripcion, estado, user_id))
+            if (Datos.Insert_pregunta(titulo,descripcion, estado, username))
             {
 
                 return "Agregado Exitosamente";

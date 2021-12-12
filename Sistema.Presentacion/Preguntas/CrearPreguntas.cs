@@ -13,9 +13,11 @@ namespace Sistema.Presentacion
 {
     public partial class CrearPreguntasForm : MaterialSkin.Controls.MaterialForm
     {
-        public CrearPreguntasForm()
+        public string current_user; 
+        public CrearPreguntasForm(string username)
         {
             InitializeComponent();
+            current_user = username; 
         }
 
         private void GuardarBtn_Click(object sender, EventArgs e)
@@ -23,7 +25,7 @@ namespace Sistema.Presentacion
             if (!string.IsNullOrEmpty(Titulotxt.Text) && !string.IsNullOrEmpty(Descripciontxt.Text))
             {
                 int estado = 0;
-                int i = (int)Membership.GetUser().ProviderUserKey;
+               
 
                 if (adminFlagBtn.Checked)
                 {
@@ -32,7 +34,7 @@ namespace Sistema.Presentacion
                 //setear reglas de contra?
 
 
-                String respuesta = Negocio.Npregunta.insert(Titulotxt.Text, Descripciontxt.Text, estado, i);
+                String respuesta = Negocio.Npregunta.insert(Titulotxt.Text, Descripciontxt.Text, estado, current_user);
                 MessageBox.Show(respuesta);
                 Close();
             }
